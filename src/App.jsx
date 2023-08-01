@@ -1,5 +1,6 @@
+import ImagePage from "./pages/ImagePage"
 export default function App() {
   return (
-    <div>Hello world</div>
+    <ImagePage />
   )
 }
